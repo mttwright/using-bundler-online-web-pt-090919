@@ -12,7 +12,7 @@
 Nothing you ever write will be 100% your code. While you probably haven't
 noticed it, every day you use somebody else's code. You didn't write your text
 editor, you didn't write Ruby, you didn't write your operating system. Those are
-the types of things that regular users interact with. As a developer, you will
+the types of things that regular users interact with. As a developer, you will                 
 have a new set of outside code to work with: Libraries. Libraries (or "gems" in
 Ruby parlance) are just bundles of code that someone else wrote for you to
 integrate into your code base. For example, remember RSpec? That's a gem.
